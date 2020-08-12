@@ -1,4 +1,4 @@
-Tugas-Pemrograman-1-DDP2
+# Tugas-Pemrograman-1-DDP2
 
 Alkisah, terdapat sepasang pemuda pemudi bernama Salman dan Dina,
 mereka sangatlah dekat dan seringkali berbagi keluh kesah masing masing
