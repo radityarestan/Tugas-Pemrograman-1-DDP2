@@ -46,6 +46,4 @@ dapat mengubah bahasa biner dari pesan yang ingin disampaikan menjadi
 pesan dengan sistem “Hamming Code” dan sebaliknya agar mereka bisa
 berkomunikasi dengan bahasa tersebut. Akankah mereka bisa berbagi keluh
 kesah melalui cara tersebut? Jawabanya ada di tangan kalian, orang-orang
-hebat
-
-I got full score on this assignment (re:105)
+hebat.
